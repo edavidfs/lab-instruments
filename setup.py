@@ -24,7 +24,7 @@ setup(
 
     description="Python package for use Lab instruments in a simple way",
     long_description=read("README.rst"),
-    long_description_content_type ="text/x-rst",
+    long_description_content_type ="text/markdown",
 
     packages=find_packages(exclude=('tests',)),
 
