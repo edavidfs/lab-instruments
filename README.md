@@ -22,4 +22,4 @@ Python package for use Lab instruments in a simple way
 
 ## Authors
 
-`lab-instruments` was written by `David Farina <edavidfs@gmail.com>`_.
+`lab-instruments` was written by `David Farina <edavidfs@gmail.com>`.

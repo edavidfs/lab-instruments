@@ -23,8 +23,8 @@ setup(
     author_email="edavidfs@gmail.com",
 
     description="Python package for use Lab instruments in a simple way",
-    long_description=read("README.rst"),
-    long_description_content_type ="text/markdown",
+    long_description=read("README.md"),
+    long_description_content_type="text/markdown",
 
     packages=find_packages(exclude=('tests',)),
 
@@ -32,14 +32,9 @@ setup(
 
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
+        "Operating System :: OS Independent",
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python',
-        'Programming Language :: Python :: 2',
-        'Programming Language :: Python :: 2.7',
-        'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.4',
-        'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
-        'Programming Language :: Python :: 3.7',
     ],
 )
